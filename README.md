@@ -19,5 +19,5 @@
 >
 > Star! Fork! Issue!:anger:
 >
-> Repo should foucs on quality, not num of lines. And I am going work on that.:secret:
+> Repo should foucs on quality, not num of lines. And I am going to work on that.:secret:
 
