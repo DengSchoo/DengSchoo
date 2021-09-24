@@ -5,7 +5,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DengSchoo&show_icons=true&theme=tokyonight">
 
 - 🔭 Programming Language: `JVAV`, `Python`,`C/C++`,`Golang`,`shell`
-- 🌱 I’m currently learning: `Distributed System`, `Goalng`, `SearchEngin`, `Algorithm`,`Computer Network`
+- 🌱 I’m currently learning: `Distributed System`, `Golang`, `SearchEngine`, `Algorithm`,`Computer Network`
 - :notebook: My blogs: https://www.cnblogs.com/DengSchoo/
 - 📫 How to reach me: 1425123490@qq.com
 - 😄 Self Discription:  `single`, `handsome`, `gentle & charming`,`hardworking`
