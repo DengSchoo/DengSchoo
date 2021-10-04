@@ -21,4 +21,4 @@
 >
 > Repo should foucs on quality, not num of lines. And I am going to work on that.:secret:
 
-[![DengSchoo's github activity graph！ hhhh](https://activity-graph.herokuapp.com/graph?username=DengSchoo)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![DengSchoo's github activity graph！ hhhh](https://activity-graph.herokuapp.com/graph?username=DengSchoo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
