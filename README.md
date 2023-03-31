@@ -20,5 +20,4 @@
 > Star! Fork! Issue!:anger:
 >
 > Repo should foucs on quality, not num of lines. And I am going to work on that.:secret:
-
-[![DengSchoo's github activity graph！ hhhh](https://activity-graph.herokuapp.com/graph?username=DengSchoo&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DengSchoo&bg_color=3b3a41&color=4c9e95&line=624c9e&point=6e4117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
