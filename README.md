@@ -21,3 +21,6 @@
 >
 > Repo should foucs on quality, not num of lines. And I am going to work on that.:secret:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DengSchoo&bg_color=3b3a41&color=4c9e95&line=624c9e&point=6e4117&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+![Alt](https://repobeats.axiom.co/api/embed/ad2eae98d37098a618d4e65a23e3223e6503627a.svg "Repobeats analytics image")
