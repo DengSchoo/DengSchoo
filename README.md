@@ -12,8 +12,7 @@
 - ⚡ Fun fact: 瘦宅一只 
 
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DengSchoo&layout=compact">
+<img align="right" src="https://github-readme-activity-graph.cyclic.app/api/top-langs/?username=DengSchoo&layout=compact">
 
 > PS : Github shows the most PL codes lines in your repo. And I have no idea what's the OpenEdge ABL PL is.... :pig2:
 >
