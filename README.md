@@ -20,7 +20,11 @@
 >
 > Repo should foucs on quality, not num of lines. And I am going to work on that.:secret:
 
-[![Deng Schoo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DengSchoo&theme=dracula#picture_center)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details> <summary>My activity graph :-></summary>
+  [![Deng Schoo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DengSchoo&theme=dracula#picture_center)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
 
-
-![Alt](https://repobeats.axiom.co/api/embed/ad2eae98d37098a618d4e65a23e3223e6503627a.svg "Repobeats analytics image")
+<details> <summary>My repo analytics :-></summary>
+  ![Alt](https://repobeats.axiom.co/api/embed/ad2eae98d37098a618d4e65a23e3223e6503627a.svg "Repobeats analytics image")
+</details>
+  
