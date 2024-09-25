@@ -1,10 +1,10 @@
-### Hi，So Nice To Meet You！ 👋
+### Hi, So Nice To Meet You！ 👋
 
 > My Tao from Cinema Paradiso Trailer: "I don't want to hear you talk anymore. I want to hear talk about you."
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=DengSchoo&show_icons=true&theme=tokyonight">
 
-- 🔭 Programming Language: `JVAV`, `Python`,`C/C++`,`Golang`,`shell`
+- 🔭 Programming Language: `JAVA`, `Python`,`C/C++`,`Golang`,`shell`
 - 🌱 I’m currently learning: `Distributed System`, `Golang`, `SearchEngine`, `Algorithm`,`Computer Network`
 - :notebook: My blogs: https://www.cnblogs.com/DengSchoo/
 - 📫 How to reach me: 1425123490@qq.com
@@ -14,11 +14,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DengSchoo&layout=compact">
 
-> PS : Github shows the most PL codes lines in your repo. And I have no idea what's the OpenEdge ABL PL is.... :pig2:
+> PS : Github shows the most PL code lines in your repo. And I have no idea what the OpenEdge ABL PL is.... :pig2:
 >
 > Star! Fork! Issue!:anger:
 >
-> Repo should foucs on quality, not num of lines. And I am going to work on that.:secret:
+> Repo should focus on quality, not num of lines. And I am going to work on that.:secret:
 
 <details> <summary>My activity graph :👇</summary>
     <center>
