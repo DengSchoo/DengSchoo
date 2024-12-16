@@ -32,6 +32,7 @@
     </center>
 </details>  
 <details> <summary>Waka data :👇</summary>
+    
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%2010%20mins-blue)
 
