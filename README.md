@@ -33,6 +33,7 @@
 </details>  
 <details> <summary>Waka data :👇</summary>
 <!--START_SECTION:waka-->
+    
 ![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
