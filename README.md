@@ -31,7 +31,7 @@
         <img src="https://repobeats.axiom.co/api/embed/ad2eae98d37098a618d4e65a23e3223e6503627a.svg" alt="Alt" title="Repobeats analytics image" />
     </center>
 </details>  
-
+<details> <summary>Waka data :👇</summary>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-476%20hrs%202%20mins-blue)
 
@@ -117,4 +117,4 @@ C++                      1 repo              ██░░░░░░░░░�
  Last Updated on 16/12/2024 06:16:44 UTC
 <!--END_SECTION:waka-->
 
-
+</details>
