@@ -36,7 +36,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2029%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-125-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
 
 **🐱 My GitHub Data** 
 
@@ -108,7 +108,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DengSchoo/DengSchoo/main/assets/bar_graph.png)
 
 
- Last Updated on 21/12/2024 18:39:09 UTC
+ Last Updated on 22/12/2024 18:38:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
