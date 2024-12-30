@@ -36,13 +36,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 652.3 kB Used in GitHub's Storage 
- > 
-> 🏆 52 Contributions in the Year 2024
+> 📦 652.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -77,8 +75,8 @@ Sunday                   149 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     12 mins             █████████████████████████   99.69 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Java                     11 mins             █████████████████████████   99.68 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
 IntelliJ IDEA            12 mins             █████████████████████████   100.00 % 
@@ -104,7 +102,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DengSchoo/DengSchoo/main/assets/bar_graph.png)
 
 
- Last Updated on 29/12/2024 18:38:56 UTC
+ Last Updated on 30/12/2024 18:41:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
