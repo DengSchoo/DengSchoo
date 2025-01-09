@@ -34,13 +34,13 @@
 <details> <summary>Waka data :👇</summary>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2041%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 652.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,42 +48,6 @@
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-🌆 Daytime                100 commits         █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-🌃 Evening                270 commits         ███████████████░░░░░░░░░░   58.06 % 
-🌙 Night                  44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   32 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
-Tuesday                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Wednesday                25 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-Thursday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Friday                   65 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Saturday                 131 commits         ███████░░░░░░░░░░░░░░░░░░   28.17 % 
-Sunday                   149 commits         ████████░░░░░░░░░░░░░░░░░   32.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -101,7 +65,7 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/DengSchoo/DengSchoo/main/assets/bar_graph.png)
 
 
- Last Updated on 08/01/2025 18:42:11 UTC
+ Last Updated on 09/01/2025 18:42:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
