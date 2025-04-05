@@ -105,3 +105,9 @@ C++                      1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/dengschoo/count.svg" />
+</p>
