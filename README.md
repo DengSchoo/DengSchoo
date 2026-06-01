@@ -27,40 +27,6 @@
   <details>
     <summary>📈 More activity & analytics</summary>
     <br>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DengSchoo&theme=tokyonight&hide_border=true" alt="activity graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=DengSchoo&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area_color=1a1b27&area=true&hide_border=true" alt="activity graph" />
     <img src="https://repobeats.axiom.co/api/embed/ad2eae98d37098a618d4e65a23e3223e6503627a.svg" alt="repobeats analytics" />
-  </details>
-
-  <details>
-    <summary>⏱️ WakaTime stats</summary>
-
-  <!--START_SECTION:waka-->
-  ![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2041%20mins-blue)
-
-  > 📦 652.2 kB used in storage · 📜 32 public repos · 🔑 1 private repo · 🚫 not opted to hire
-
-  **I'm a Night 🦉**
-
-  ```text
-  🌞 Morning    51 commits   ███░░░░░░░░░░░░░░░░░░░░░░   10.99 %
-  🌆 Daytime    99 commits   █████░░░░░░░░░░░░░░░░░░░░   21.34 %
-  🌃 Evening   270 commits   ███████████████░░░░░░░░░░   58.19 %
-  🌙 Night      44 commits   ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 %
-  ```
-
-  📅 **Most Productive on Sunday**
-
-  ```text
-  Mon  32   ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
-  Tue  27   █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-  Wed  24   █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-  Thu  36   ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-  Fri  65   ████░░░░░░░░░░░░░░░░░░░░░   14.01 %
-  Sat 131   ███████░░░░░░░░░░░░░░░░░░   28.23 %
-  Sun 149   ████████░░░░░░░░░░░░░░░░░   32.11 %
-  ```
-
-  <sub>Last updated 14/01/2025</sub>
-  <!--END_SECTION:waka-->
-
   </details>
