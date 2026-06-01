@@ -1,24 +1,14 @@
 ### Hi, So Nice To Meet You！ 👋
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight
 
 > My Tao from Cinema Paradiso Trailer: "I don't want to hear you talk anymore. I want to hear talk about you."
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=DengSchoo&show_icons=true&theme=tokyonight">
-
-- 🔭 Programming Language: `JAVA`, `Python`,`C/C++`,`Golang`,`shell`
-- 🌱 I’m currently learning: `Distributed System`, `Golang`, `SearchEngine`, `Algorithm`,`Computer Network`
-- :notebook: My blogs: https://www.cnblogs.com/DengSchoo/
-- 📫 How to reach me: 1425123490@qq.com
-- 😄 Self Discription:  `handsome`, `gentle & charming`,`hardworking`
-- ⚡ Fun fact: skinny nerd
+<img align="right" src="https://github-readme-stats.shion.dev/api?username=DengSchoo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true">
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DengSchoo&layout=compact">
 
-> PS : Github shows the most PL code lines in your repo. And I have no idea what the OpenEdge ABL PL is.... :pig2:
->
-> Star! Fork! Issue!:anger:
->
-> Repo should focus on quality, not num of lines. And I am going to work on that.:secret:
+
+<img align="right" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DengSchoo&layout=compact](https://github-readme-stats.shion.dev/api/top-langs/?username=DengSchoo&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)">
 
 <details> <summary>My activity graph :👇</summary>
     <center>
@@ -109,5 +99,5 @@ C++                      1 repo              ██░░░░░░░░░�
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/dengschoo/count.svg" />
+  <img src="[https://profile-counter.glitch.me/dengschoo/count.svg](https://komarev.com/ghpvc/?username=DengSchoo&icon=0&color=0)" />
 </p>
